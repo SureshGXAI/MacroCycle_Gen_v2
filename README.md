@@ -5,9 +5,8 @@ A GPT-style Transformer that generates novel macrocycle molecules
 
 ## Setup
 
-git clone `git@github.com:SureshGXAI/MacroCycle_Gen_v2.git`
-
-cd MacroCycle_Gen_v2
+git clone `git@github.com:SureshGXAI/MacroCycle_Gen_v2.git` \
+cd MacroCycle_Gen_v2 \
 
 pip install -r requirements.txt
 
